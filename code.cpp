@@ -20,6 +20,7 @@ enum edirection
     DOWN
 };
 edirection dir;
+//new comments added
 void setup()
 {
     gameOver = false;
